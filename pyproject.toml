@@ -1,6 +1,6 @@
 [project]
-name = "taulogger"
-version = "1.0.5"
+name = "taulog"
+version = "1.0.6"
 description = "taulog"
 readme = "README.md"
 requires-python = ">=3.5"
